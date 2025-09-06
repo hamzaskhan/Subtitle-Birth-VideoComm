@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai-whisper
+ffmpeg-python
+python-multipart
+jinja2
+google-generativeai
+python-dotenv
+TTS==0.22.0
+torch
+transformers<4.50
+torchaudio
+soundfile
+numpy
+demucs
